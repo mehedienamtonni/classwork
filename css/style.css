@@ -1,0 +1,72 @@
+.body{
+    text-align: center;
+}
+
+.header{
+    background-color: #9FC5F8;
+    margin: 15px 0px;
+    padding: 0px 15px;
+}
+
+.brand, .global_nav, .tools{
+    min-height: 70px;
+    background-color: #CFE2FB;
+    margin: 15px 0px; 
+    text-align: center;
+}
+
+.hero{
+    background-color: #9FC5F8;
+    margin: 15px 0px;
+    padding: 0px 15px;
+}
+
+.hero_feature, .call_to_action{
+    min-height: 120px;
+    background-color: #CFE2FB;
+    margin: 15px 0px;
+    text-align: center;
+}
+
+.ad{
+    background-color: #6FA8DC;
+    margin: 15px 0px;
+    min-height: 150px;
+    text-align: center;
+}
+
+.body{
+    background-color: #9FC5F8;
+    margin: 15px 0px;
+    padding: 0px 15px;
+}
+
+.article_feature, .article_listing{
+    background-color: #CFE2FB;
+    margin: 15px 0px;
+    min-height: 400px;
+}
+
+.article_listing{
+    clear:both;
+}
+
+.sidebar{
+    background-color: #9FC5F8;
+    margin: 15px 0px;
+    padding: 0px 15px;
+}
+
+.sidebar_feature{
+    background-color: #CFE2FB;
+    margin: 15px 0px;
+    padding: 0px 15px;
+    min-height: 400px;
+    text-align: center;
+}
+
+.footer{
+    background-color:  #9FC5F8;
+    min-height: 50px;
+    text-align: center;
+}

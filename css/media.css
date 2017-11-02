@@ -1,0 +1,49 @@
+@media (max-width: 767px) {
+    .article_feature{
+    background-color: #CFE2FB;
+    margin: 15px 0px;
+    min-height: 150px;
+    }
+    
+    .article_listing{
+    background-color: #CFE2FB;
+    margin: 15px 0px;
+    min-height: 150px;
+    }
+    
+
+}
+@media (min-width: 768px) and (max-width: 991px) { 
+ .hero_feature{
+    min-height: 70px;
+    background-color: #CFE2FB;
+    margin: 15px 0px;
+    }
+    
+    .call_to_action{
+    min-height: 40px;
+    background-color: #CFE2FB;
+    margin: 15px 0px;
+    }
+    
+    .article_feature{
+    background-color: #CFE2FB;
+    margin: 15px 0px;
+    min-height: 150px;
+    }
+    
+    .article_listing{
+    background-color: #CFE2FB;
+    margin: 15px 0px;
+    min-height: 150px;
+    }
+    
+    .sidebar_feature{
+    background-color: #CFE2FB;
+    margin: 15px 0px;
+    padding: 0px 15px;
+    min-height: 90px;
+
+}
+@media (min-width: 992px) and (max-width: 1199px) {  }
+@media (min-width: 1200px) {  }
